@@ -129,8 +129,8 @@ Find the full documentation PDF inside [`/Documentation`](./Documentation)
 
 This project was built collaboratively by our team of five ITI students:
 
-- [Ahmed Mostafa](https://github.com/AhmedMostafa-30)
+- [Ahmed Mostafa](https://github.com/AhmedMostafa-30) *(me)*
 - [Amany Saeed](https://github.com/amany-saeed99)
 - [Amir El Sayed](https://github.com/AmirElsayed117)
 - [Bassant Samy](https://github.com/BassantEl-emem)
-- [Mohamed Fatouh](https://github.com/mohamedfa) *(me)*
+- [Mohamed Fatouh](https://github.com/mohamedfa) 
